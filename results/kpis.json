@@ -1,0 +1,7 @@
+{
+  "customers": 7043,
+  "churned_customers": 1869,
+  "churn_rate_pct": 26.536987079369588,
+  "average_monthly_charge": 64.76169246059918,
+  "monthly_charges_of_churned_customers": 139130.85
+}

@@ -1,0 +1,3 @@
+gender,customers,churned,average_monthly_charge,churn_rate_pct
+Female,3488,939,65.20424311926605,26.920871559633024
+Male,3555,930,64.32748241912799,26.160337552742618
